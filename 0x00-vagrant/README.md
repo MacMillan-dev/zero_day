@@ -1,0 +1,1 @@
+What uname prints when typed without an option
